@@ -1,0 +1,6 @@
+{
+  "name": "Java Recursive Asal Sayı Bulucu - Enes Öztürk",
+  "description": "Java dilinde recursive (özyinelemeli) metot kullanarak kullanıcının girdiği sayının asal olup olmadığını bulan program ve interaktif simülatör.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
